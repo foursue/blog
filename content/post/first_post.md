@@ -1,6 +1,6 @@
 ---
 date:  "2016-07-02T23:55:35+09:00"
-draft: true
+draft: false
 title: "こんにちはブログ"
 description: "最初の記事です"
 categories:
