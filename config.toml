@@ -1,0 +1,22 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "ja-jp"
+title = "Foursue's blog"
+theme = "HugoMDL"
+MetaDataFormat = "yaml"
+[permalinks]
+	page = "/:title/"
+	about = "/:filename/"
+[params]
+    author = "Hishinuma Yuuta"
+    avatar = "/images/avatar.jpg"
+    background = "/images/background.jpg"
+    description = "Web技術系のブログ" #meta description
+    image = "/images/avatar.jpg" #for frontpage profile card
+    website = "example.com"
+    email = "foursue@gmail.com"
+    twitter = "https://twitter.com/foursue"
+    github = "https://github.com/foursue/"
+    linkedin = "https://www.linkedin.com/in/%E9%9B%84%E5%A4%AA-%E8%8F%B1%E6%B2%BC-a494a910b"
+    facebook = "https://www.facebook.com/foursue/"
+    copyrightyear = "2016"
+    frontpageposts = 6 #number of post cards to display on frontpage
